@@ -4,3 +4,9 @@ Git add- add the files to your index.
 Git commit- commit the changes to repository
 git commit –m “login method change” and press enter. Used to commit the changes into local repository
 git log- to check the history
+Git status- this will display list of files which are added to local repository
+Git add- add the files to your index.
+git add filename is suppose login.java
+Git commit- commit the changes to repository
+git commit –m “login method change” and press enter. Used to commit the changes into local repository
+git log- to check the history
